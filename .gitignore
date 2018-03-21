@@ -30,6 +30,9 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 # Other
 .DS_Store
+=======
+>>>>>>> Initial commit
